@@ -20,7 +20,4 @@
 - **CSS3** : Design et mise en forme de la page.
 - **JavaScript** : Redirection entre les pages après la soumission des formulaires.
 
-## Structure du projet
-
-Voici la structure de base de ce projet :
 
